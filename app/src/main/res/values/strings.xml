@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BattleShip Game</string>
+
+
+    <string name="button_play"> Play </string>
+
+    <string name="show_info"> Design </string>
+    <string name="cell_status_empty"> Empty </string>
+    <string name="cell_status_full"> Full </string>
+    <string name="cell_status_hit"> Hit </string>
+    <string name="cell_status_miss"> Miss </string>
+    <string name="cell_status_unknown"> Unknown </string>
+</resources>
